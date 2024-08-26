@@ -21,6 +21,9 @@
 # 3- Velocistas. Tienen que tener club al que pertenecen, Mejor marca en 100 metros, en 200 m.
 # pueden correr carreras, y si el tiempo supera la mejor marca, esa marca pasa a ser la mejor.
 
+# 4- Crear dos objetos de tipo basketbolista.
+# Hay una propiedad que indica si tiene la pelota o no.
+# Tiene que haber un metodo que sea pasar pelota.
 
 class Personas:
     def __init__(self, nombre, apellido, edad, estado_civil, velocidad_maxima):
